@@ -1,0 +1,2 @@
+# GWS
+General Worse Systems
