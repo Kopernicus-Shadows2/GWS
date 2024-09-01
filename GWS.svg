@@ -40,7 +40,7 @@
      id="layer1">
     <path
        id="path1"
-       style="fill:#991e2a;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.165;stroke-linejoin:bevel;stroke-opacity:1"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.165;stroke-linejoin:bevel;stroke-opacity:1"
        inkscape:transform-center-x="10.026609"
        inkscape:transform-center-y="-1.8708661e-06"
        d="M 82.47655,5.138911 155.02975,105 82.47655,204.86109 199.86991,166.71768 V 43.282319 Z m 0,0 L 9.9233557,105 82.47655,204.86109 Z" />
